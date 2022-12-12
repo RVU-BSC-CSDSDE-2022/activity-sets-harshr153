@@ -183,16 +183,11 @@ Square root of 49.0 is 7.0
 
 ---
 
-10. Write a C program to compare two strings, character by character.
+10. 
+***Output***
+```Write a C program to compare two strings, character by character.
 
-> For example, `Hello` should be equal to `Hello`, but not equal to `hello`.
-
-> `Hello` will be lesser than `Hellw` (alphabetical order).
-
-***Function Declarations***
-
-```c
-void input_two_strings(char *string1, char *string2);
+> For_strings(char *string1, char *string2);
 int stringcompare(char *string1, char *string2);
 void output(char *string1, char *string2, int result);
 ```
@@ -203,9 +198,14 @@ Enter the first string: hello
 Enter the second string: world
 ```
 
-***Output***
-```
-world is greater than hello
+world is greater than hello example, `Hello` should be equal to `Hello`, but not equal to `hello`.
+
+> `Hello` will be lesser than `Hellw` (alphabetical order).
+
+***Function Declarations***
+
+```c
+void input_two
 ```
 
 ---
