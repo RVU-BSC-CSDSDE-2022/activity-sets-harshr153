@@ -1,0 +1,17 @@
+def input_two_numbers():
+  a=int(input("Enter a number"))
+  b=int(input("Enter a number"))
+  return a,b
+
+def sum_2(a,b):
+  return a+b
+
+def output(a,b,sum):
+  print(f"{a}+{b} is {sum}")
+
+def main():
+  a,b=input_two_numbers()
+  sum = sum_2(a,b)
+  output(a,b,sum)
+
+main()

@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int input()
+void change_to_6();
+
+
+int input(){
+  int n;
+  printfn("enter number a:/n");
+scanf("%d",&n);
+tetrun n;
+
+ }
+//para
+void change_to_6(int a){
+
+
+}
+int main(){
+int a;
+
